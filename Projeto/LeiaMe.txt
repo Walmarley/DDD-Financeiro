@@ -1,0 +1,2 @@
+Projeto criado para estudos, foi aplicado varias metodologias de desenvolvimento DDD, 
+muitas vezes desnecessarias.
